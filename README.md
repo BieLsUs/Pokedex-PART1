@@ -5,4 +5,4 @@
 
 ////////////////////////////////////////////////////////////////////////////////////
 
-<h2>Construindo uma Pokédex com JavaScript. Utilizando PokeApi.</h2>
+<h3>Construindo uma Pokédex com JavaScript. Utilizando PokeApi.</h3>
